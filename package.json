@@ -22,10 +22,10 @@
     "cost",
     "tokens"
   ],
-  "author": "",
+  "author": "Bryan Porter",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/brporter/claude-cost-statusline"
   }
 }
