@@ -1,6 +1,6 @@
 {
   "name": "claude-cost-statusline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real-time session cost and token metrics for the Claude Code status bar",
   "bin": {
     "claude-cost-statusline": "./bin/claude-cost-statusline.js"
