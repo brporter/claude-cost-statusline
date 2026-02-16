@@ -26,4 +26,5 @@ jobs:
         with:
           node-version: 22
       - run: npm install -g npm@latest
+      - run: npm config delete //registry.npmjs.org/:_authToken 2>/dev/null || true
       - run: npm publish --provenance --access public
